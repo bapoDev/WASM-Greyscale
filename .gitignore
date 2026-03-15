@@ -1,0 +1,16 @@
+# Emscripten outputs
+filtre.js
+filtre.wasm
+filtre.worker.js
+
+# Build artifacts
+*.o
+*.a
+
+# Node
+node_modules/
+server.js
+
+# OS
+.DS_Store
+Thumbs.db
